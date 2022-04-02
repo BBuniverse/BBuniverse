@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 <div display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=BBuniverse&show_icons=true&count_private=true&theme=radical&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBuniverse&layout=compact&theme=radical&hide_border=true" height="180"/>
-</div>
+</div
+  
+<a href="https://github.com/BBuniverse"><img align="center" alt="WakaTime Years" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BBuniverse&custom_title=WakaTime Years State&layout=compact&time_range=last_year&theme=panda"/></a>
+  
 
 <!--START_SECTION:waka-->
 
