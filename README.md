@@ -21,4 +21,10 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
+
+```text
+Python     10 hrs 6 mins   ███████████████████████▓░   94.39 %
+Other      26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+```
+
 <!--END_SECTION:waka-->
