@@ -26,10 +26,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python           1 hr 18 mins    █████████████████████▓░░░   86.27 %
-YAML             11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-BibTeX           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Python           1 hr 10 mins    █████████████████████▒░░░   85.16 %
+YAML             11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
