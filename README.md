@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python    5 hrs 3 mins    ████████████████████▒░░░░   81.32 %
-CSV       42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
-Other     25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+Python    3 hrs 13 mins   ██████████████████▒░░░░░░   73.75 %
+CSV       41 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
+Other     25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
 ```
 
 <!--END_SECTION:waka-->
