@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python    6 hrs 36 mins   █████████████████████▒░░░   84.93 %
-Jupyter   35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-CSV       30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-BibTeX    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Python    6 hrs 11 mins   █████████████████████░░░░   83.68 %
+Jupyter   37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+CSV       30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+BibTeX    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
