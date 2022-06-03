@@ -26,9 +26,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Jupyter   22 mins         ███████████████████████▓░   95.19 %
-Python    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-TeX       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+TeX    0 secs          ██████████████▓░░░░░░░░░░   59.01 %
+HTML   0 secs          ██████████▒░░░░░░░░░░░░░░   40.99 %
 ```
 
 <!--END_SECTION:waka-->
