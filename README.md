@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TeX    0 secs          ██████████████▓░░░░░░░░░░   59.01 %
-HTML   0 secs          ██████████▒░░░░░░░░░░░░░░   40.99 %
+TeX      2 mins          ███████████████████████░░   92.62 %
+HTML     0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+BibTeX   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
