@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ```text
 TeX      2 mins          ███████████████████████░░   91.74 %
 HTML     0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
-BibTeX   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
