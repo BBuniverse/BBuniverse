@@ -7,7 +7,7 @@
 <!--te-->
 
 
-### Hi there
+# Hi there
 
 <!--
 **BBuniverse/BBuniverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <div display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=BBuniverse&show_icons=true&count_private=true&theme=radical&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBuniverse&layout=compact&theme=radical&hide_border=true" height="180"/>
 </div
-  
-<a href="https://github.com/BBuniverse"><img align="center" alt="WakaTime Years" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BBuniverse&custom_title=WakaTime Years State&layout=compact&time_range=last_year&theme=panda"/></a>
-  
+     
 
+## Code
 <!--START_SECTION:waka-->
 
 ```text
@@ -43,3 +43,7 @@ Text             0 secs          ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+     
+     
+
+<a href="https://github.com/BBuniverse"><img align="center" alt="WakaTime Years" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BBuniverse&custom_title=WakaTime Years State&layout=compact&time_range=last_year&theme=panda"/></a>
