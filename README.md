@@ -35,10 +35,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown         9 mins          ██████████████████▓░░░░░░   74.18 %
-Python           1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
-GitIgnore file   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-Git Config       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Python   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
