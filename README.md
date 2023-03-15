@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python   1 hr 23 mins    █████████████████████████   99.37 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Python   17 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
