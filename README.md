@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   12 mins         █████████████████████████   100.00 %
+JSON       40 mins         ███████████████████░░░░░░   76.40 %
+Markdown   12 mins         ██████░░░░░░░░░░░░░░░░░░░   23.60 %
 ```
 
 <!--END_SECTION:waka-->
