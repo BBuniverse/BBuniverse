@@ -35,9 +35,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JSON     40 mins         ████████████████▓░░░░░░░░   66.90 %
-Python   19 mins         ████████▒░░░░░░░░░░░░░░░░   32.83 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Python   19 mins         ████████████████████████▓   99.18 %
+CSV      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
