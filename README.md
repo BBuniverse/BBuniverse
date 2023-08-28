@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           9 hrs 13 mins   ███████████████████▒░░░░░   77.07 %
-Shell Script     44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-JSON             36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-Bash             35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Text             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Python           11 hrs 7 mins   ██████████████████▒░░░░░░   73.92 %
+Shell Script     1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+JSON             1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Bash             42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+GDScript         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
 
 <!--END_SECTION:waka-->
