@@ -44,6 +44,4 @@ YAML             6 mins          ░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
      
-     
-
-<a href="https://github.com/BBuniverse"><img align="center" alt="WakaTime Years" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BBuniverse&custom_title=WakaTime Years State&layout=compact&time_range=last_year&theme=panda"/></a>
+[![BBuniverse's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BBuniverse)](https://github.com/anuraghazra/github-readme-stats)
