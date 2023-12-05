@@ -35,7 +35,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   0 secs          █████████████████████████   100.00 %
+Python   0 secs          ████████████████████████░   95.52 %
+Bash     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
