@@ -35,8 +35,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Text     1 min           ███████████████████▓░░░░░   78.71 %
-Python   0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
+Python             2 hrs 45 mins   █████████████████████▒░░░   84.73 %
+Text               10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Requirements.txt   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+textmate           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Shell Script       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
