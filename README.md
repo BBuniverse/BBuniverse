@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python         17 mins         ██████████████▒░░░░░░░░░░   57.80 %
-Bash           6 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.23 %
-Shell Script   4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
-YAML           1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Python         22 mins         ████████████▒░░░░░░░░░░░░   49.36 %
+Shell Script   13 mins         ███████▓░░░░░░░░░░░░░░░░░   30.90 %
+Bash           7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
+YAML           1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 ```
 
 <!--END_SECTION:waka-->
