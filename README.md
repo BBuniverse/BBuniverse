@@ -35,10 +35,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Shell Script   2 mins          ████████████████████░░░░░   79.38 %
-Bash           0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.87 %
-YAML           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Python         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
