@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python         1 hr 17 mins    █████████████████████▓░░░   86.11 %
-textmate       5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-Bash           3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-YAML           1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Shell Script   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Python         1 hr 17 mins    █████████████████████▓░░░   86.71 %
+textmate       5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Bash           2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+YAML           1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Shell Script   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
