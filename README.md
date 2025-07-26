@@ -35,7 +35,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TeX        45 mins         █████████████████████▒░░░   85.15 %
+Markdown   7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
