@@ -35,9 +35,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX     5 mins          ████████████████████▒░░░░   80.79 %
-tmux    0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
-Other   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+TeX      5 mins          ██████████████▒░░░░░░░░░░   56.70 %
+Python   3 mins          ███████▒░░░░░░░░░░░░░░░░░   29.82 %
+tmux     0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+Other    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 ```
 
 <!--END_SECTION:waka-->
