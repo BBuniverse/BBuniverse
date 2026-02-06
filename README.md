@@ -35,8 +35,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX    30 hrs 12 mins  ███████████████████████░░   91.91 %
-Text   2 hrs 39 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+TeX        27 hrs 4 mins   ██████████████████████░░░   88.61 %
+Text       2 hrs 39 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+Markdown   49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 ```
 
 <!--END_SECTION:waka-->
