@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TeX   1 min                 █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
