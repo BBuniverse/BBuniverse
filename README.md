@@ -35,8 +35,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python             16 mins               █████████████▒░░░░░░░░░░░   53.25 %
-SRecode Template   14 mins               ███████████▓░░░░░░░░░░░░░   46.75 %
+Python             16 mins               █████████▒░░░░░░░░░░░░░░░   37.84 %
+SRecode Template   14 mins               ████████▒░░░░░░░░░░░░░░░░   33.22 %
+TeX                12 mins               ███████▒░░░░░░░░░░░░░░░░░   28.94 %
 ```
 
 <!--END_SECTION:waka-->
