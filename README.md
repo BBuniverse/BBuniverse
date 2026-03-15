@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX                1 hr 33 mins          ███████████████████░░░░░░   76.47 %
-SRecode Template   15 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
-Python             12 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
-Other              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+TeX                2 hrs 4 mins          ████████████████████▒░░░░   81.17 %
+SRecode Template   15 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+Python             12 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+Other              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 Markdown           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
