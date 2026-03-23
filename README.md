@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX            56 mins               ███████████▓░░░░░░░░░░░░░   46.50 %
-Python         33 mins               ███████░░░░░░░░░░░░░░░░░░   27.51 %
-OpenEdge ABL   19 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
-Other          4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-PostScript     4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+TeX            41 mins               █████████▓░░░░░░░░░░░░░░░   38.93 %
+Python         33 mins               ████████░░░░░░░░░░░░░░░░░   31.41 %
+OpenEdge ABL   19 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.30 %
+Other          4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+PostScript     4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 ```
 
 <!--END_SECTION:waka-->
