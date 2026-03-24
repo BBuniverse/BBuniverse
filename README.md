@@ -35,11 +35,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX            41 mins               █████████▓░░░░░░░░░░░░░░░   38.93 %
-Python         33 mins               ████████░░░░░░░░░░░░░░░░░   31.41 %
-OpenEdge ABL   19 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.30 %
-Other          4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-PostScript     4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Python   33 mins               █████████████████░░░░░░░░   68.48 %
+TeX      14 mins               ███████▒░░░░░░░░░░░░░░░░░   29.12 %
+CSV      1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
 ```
 
 <!--END_SECTION:waka-->
