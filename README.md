@@ -35,9 +35,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   33 mins               █████████████████░░░░░░░░   68.48 %
-TeX      14 mins               ███████▒░░░░░░░░░░░░░░░░░   29.12 %
-CSV      1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+TeX   14 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
