@@ -35,11 +35,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         1 hr 47 mins          ██████████████████░░░░░░░   71.71 %
-TeX          36 mins               ██████░░░░░░░░░░░░░░░░░░░   24.45 %
-CSS          4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-Git Config   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+HTML         40 mins               ███████████████████▒░░░░░   76.70 %
+TeX          11 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
+Git Config   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 ```
 
 <!--END_SECTION:waka-->
