@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX   0 secs                █████████████████████████   100.00 %
+JSON   6 mins                ████████████████████████▒   97.53 %
+TeX    0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
 <!--END_SECTION:waka-->
