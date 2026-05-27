@@ -35,8 +35,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   6 mins                ████████████████████████▒   97.53 %
-TeX    0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+TeX          3 hrs 19 mins         ████████████████████▓░░░░   82.14 %
+JSON         15 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+BibTeX       13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+Markdown     9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Bash         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
